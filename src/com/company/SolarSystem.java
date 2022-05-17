@@ -8,5 +8,5 @@ public class SolarSystem {
             String Planet;
 
         }
-   
+
 
